@@ -6,7 +6,7 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 
 ### Purpose
 
-This new assignment consists of two technical analysis deliverables and a written report to deliver your results.
+This new assignment consists of two technical analysis deliverables and a written report to deliver results.
 
 - Deliverable 1: Outcomes Based on Launch Date Chart
 - Deliverable 2: Outcomes Based on Goals Chart
